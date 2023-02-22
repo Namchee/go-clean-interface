@@ -27,5 +27,6 @@ go-clean-interface [-flag] [package]
 All options are provided through CLI flags.
 
 Name | Type | Default | Description
+---- | ---- | ------- | -----------
 `no-prefix` | `bool` | `true` | Disallow interface declarations to be prefixed with `I`
 `no-suffix` | `bool` | `true` | Disallow interface declarations to be suffixed with `Itf`

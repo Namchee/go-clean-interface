@@ -19,7 +19,7 @@ go install github.com/Namchee/go-clean-interface@latest
 ## Usage
 
 ```shell
-go-clean-interface [package]
+go-clean-interface [-flag] [package]
 ```
 
 ## Options

@@ -1,3 +1,3 @@
-module github.com/Namchee/no-i-prefix
+module github.com/Namchee/go-clean-interface
 
 go 1.19
